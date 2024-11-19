@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CharlesDouxPro
-- 👀 I’m interested in DataScience particuraly in HealthCare
+- 👀 I’m interested in DataEngineering particuraly environment, healthcare or cybersecurity
 
-- 💞️ I’m looking to collaborate on a StartUp Project as a datascientist
 - 📫 How to reach me : charles.doux.pro@gmail.com
 
 <!---
