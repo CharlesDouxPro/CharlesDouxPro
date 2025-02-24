@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CharlesDouxPro
-- 👀 I’m interested in DataEngineering particuraly environment, healthcare or cybersecurity
+- 👀 I’m interested in AI
 
 - 📫 How to reach me : charles.doux.pro@gmail.com
 
